@@ -1,10 +1,10 @@
 <h1 align="center">Hi! I'm Sagun.</h1>
-<h3 align="center">A developer based in Nepal.</h3>
+<h4 align="center">designer & developer </h4s>
 
-- Email : **sagunkhatri@pm.me**
+**Email** : **sagunkhatri@pm.me**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+<h4 align="center">Connect with me:</h4>
 <a href="https://twitter.com/sagunkhtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sagunkhtr" height="30" width="40" /></a>
 <a href="https://instagram.com/sagunkhtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sagunkhtr" height="30" width="40" /></a>
 </p>
