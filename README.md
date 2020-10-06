@@ -12,4 +12,4 @@
 <a href="https://instagram.com/sagunkhtr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sagunkhtr" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagunkhatri&show_icons=true" alt="sagunkhatri" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagunkhatri&show_icons=true" alt="sagunkhatri" /></p>
