@@ -31,9 +31,17 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
 <br />
 
 <details>
-  <summary>:zap: **GitHub Stats**</summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sagunkhatri's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sagunkhatri&show_icons=true&hide_border=true" />
+
+</details>
+<details>
+  <summary>:bookmark: Quotes</summary>
+
+  > Never do yesterday what should be done tomorrow.
+  > If at last yo do succeed, never try again.
+  >Predestination
 
 </details>
 
