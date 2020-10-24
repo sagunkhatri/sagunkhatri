@@ -1,8 +1,8 @@
-## Hello :wave: | नमस्ते :pray:
+## Hello :wave: | :pray: नमस्ते 
 
-I am Sagun. A designer and developer based in Nepal.
+I am **Sagun**. A designer and developer based in Nepal.
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="sagun.info.np" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="sagunkhtr | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -11,7 +11,7 @@ I am Sagun. A designer and developer based in Nepal.
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
