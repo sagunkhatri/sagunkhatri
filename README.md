@@ -1,6 +1,6 @@
 ## Hello :wave: | :pray: नमस्ते
 
-I am **Sagun**, a designer and developer based in **Nepal** :nepal:
+I am **Sagun**, a designer and developer based in **Nepal** :nepal:   
 I spend my weekdays in front of a computer :computer: and weekends in front of a TV.:tv:
 
 #### Connect with me:
