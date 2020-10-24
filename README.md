@@ -1,6 +1,6 @@
-## Hello :wave: | :pray: नमस्ते 
+## Hello :wave: | :pray: नमस्ते
 
-I am **Sagun**. A designer and developer based in Nepal.
+I am **Sagun**. A designer and developer based in Nepal. :nepal:
 
 #### Connect with me:
 
