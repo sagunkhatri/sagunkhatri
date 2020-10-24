@@ -1,7 +1,7 @@
 ## Hello :wave: | :pray: नमस्ते
 
 I am **Sagun**, a designer and developer based in **Nepal** :nepal:   
-I spend my weekdays in front of a computer :computer: and weekends in front of a TV :tv:
+I spend my weekdays in front of a computer :desktop_computer: and weekends in front of a TV :tv:  
 
 #### Connect with me:
 
@@ -31,7 +31,7 @@ I spend my weekdays in front of a computer :computer: and weekends in front of a
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: **GitHub Stats**</summary>
 
   <img align="left" alt="sagunkhatri's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sagunkhatri&show_icons=true&hide_border=true" />
 
