@@ -40,8 +40,8 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
   <summary>:bookmark: Quotes</summary>
 
   > Never do yesterday what should be done tomorrow.
-  > If at last yo do succeed, never try again.
-  >Predestination
+  >    
+  > If at last you do succeed, never try again.
 
 </details>
 
