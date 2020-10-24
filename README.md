@@ -1,5 +1,6 @@
-## Hi there, I'm Sagun 👋
-###_designer & developer_
+## Hello :wave: | नमस्ते :pray:
+
+I am Sagun. A designer and developer based in Nepal.
 
 ### Connect with me:
 
