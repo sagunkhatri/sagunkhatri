@@ -30,12 +30,8 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="center"><img align="center" alt="sagunkhatri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagunkhatri&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight" /></p>
 
-  <img align="center" alt="sagunkhatri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sagunkhatri&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight" />
-
-</details>
 
 <details>
   <summary>:bookmark: Quotes</summary>
