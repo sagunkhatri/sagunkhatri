@@ -1,6 +1,7 @@
 ## Hello :wave: | :pray: नमस्ते
 
-I am **Sagun**. A designer and developer based in Nepal. :nepal:
+I am **Sagun**, a designer and developer based in **Nepal** :nepal:
+I spend my weekdays in front of a computer :computer: and weekends in front of a TV.:tv:
 
 #### Connect with me:
 
@@ -19,6 +20,7 @@ I am **Sagun**. A designer and developer based in Nepal. :nepal:
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
+<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
