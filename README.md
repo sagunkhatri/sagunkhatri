@@ -36,6 +36,7 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
   <img align="left" alt="sagunkhatri's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sagunkhatri&show_icons=true&hide_border=true" />
 
 </details>
+<br />
 <details>
   <summary>:bookmark: Quotes</summary>
 
