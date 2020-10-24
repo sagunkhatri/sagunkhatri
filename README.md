@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sagun.info.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://sagun.info.np/]
+[<img align="left" alt="sagun.info.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sagun.info.np/)
 [<img align="left" alt="sagunkhtr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/sagunkhtr]
 [<img align="left" alt="sagunkhtr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/sagunkhtr/]
 [<img align="left" alt="sagunkhatri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/sagunkhatri]
