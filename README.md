@@ -9,6 +9,7 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
 [<img align="left" alt="sagunkhtr | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sagunkhtr | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sagunkhatri | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sagunkhatri | Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 
 <br />
 
@@ -50,3 +51,4 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
 [twitter]: https://twitter.com/sagunkhtr
 [instagram]: https://instagram.com/sagunkhtr
 [linkedin]: https://linkedin.com/in/sagunkhatri
+[dribbble]: https://dribbble.com/sagunkhatri
