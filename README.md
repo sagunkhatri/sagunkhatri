@@ -33,8 +33,8 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="sagunkhatri's GitHub Stats" src="https://github-readme-stats-zeta-five.vercel.app/api?username=sagunkhatri&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="center" alt="sagunkhatri's Top Languages" src="https://github-readme-stats-zeta-five.vercel.app/api/top-langs/?username=sagunkhatri&layout=compact&theme=tokyonight)" />
+  <img align="center" alt="sagunkhatri's GitHub Stats" src="https://github-readme-stats.sagunkhatri.vercel.app/api?username=sagunkhatri&hide=prs,issues&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="sagunkhatri's Top Languages" src="https://github-readme-stats.sagunkhatri.vercel.app/api/top-langs/?username=sagunkhatri&layout=compact&theme=tokyonight)" />
 
 </details>
 
