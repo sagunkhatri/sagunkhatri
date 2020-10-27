@@ -3,30 +3,30 @@
 I am **Sagun**, a designer and developer based in **Nepal** :nepal:   
 I spend my weekdays in front of a computer :desktop_computer: and weekends in front of a TV :tv:  
 
-#### Connect with me:
+#### Around the web:
 
-[<img align="left" alt="sagun.info.np" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sagunkhtr | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sagunkhtr | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="sagunkhatri | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sagunkhatri | Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
+[<img title="sagun.info.np" align="left" alt="sagun.info.np" width="24px" src="./assets/icons/social-icons/click.svg" />][website]
+[<img align="left" alt="sagunkhtr | Twitter" width="24px" src="./assets/icons/social-icons/twitter.svg" />][twitter]
+[<img align="left" alt="sagunkhtr | Instagram" width="24px" src="./assets/icons/social-icons/instagram.svg" />][instagram]
+[<img align="left" alt="sagunkhatri | LinkedIn" width="24px" src="./assets/icons/social-icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sagunkhatri | Dribbble" width="24px" src="./assets/icons/social-icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="sagunkhatri | Gitlab" width="24px" src="./assets/icons/social-icons/gitlab.svg" />][gitlab]
 
 <br />
 
 #### Languages and Tools:
 
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="28px" src="./assets/icons/devicons/html5-wordmark.svg" />
+<img align="left" alt="CSS3" width="28px" src="./assets/icons/devicons/css3-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="28px" src="./assets/icons/devicons/bootstrap-wordmark.svg" />
+<img align="left" alt="Sass" width="28px" src="./assets/icons/devicons/sass.svg" />
+<img align="left" alt="Less" width="28px" src="./assets/icons/devicons/less-wordmark.svg" />
+<img align="left" alt="JavaScript" width="28px" src="./assets/icons/devicons/javascript.svg" />
+<!-- <img align="left" alt="React" width="28px" src="#" />
+<img align="left" alt="Node.js" width="28px" src="#" /> -->
+<img align="left" alt="MySQL" width="28px" src="./assets/icons/devicons/mysql-wordmark.svg" />
+<img align="left" alt="Python" width="28px" src="./assets/icons/devicons/python-wordmark.svg" />
+<img align="left" alt="Git" width="28px" src="./assets/icons/devicons/git-wordmark.svg" />
 
 <br />
 <br />
@@ -53,3 +53,4 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
 [instagram]: https://instagram.com/sagunkhtr
 [linkedin]: https://linkedin.com/in/sagunkhatri
 [dribbble]: https://dribbble.com/sagunkhatri
+[gitlab]: https://gitlab.com/sagunkhatri
