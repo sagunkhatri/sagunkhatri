@@ -5,12 +5,12 @@ I spend my weekdays in front of a computer :desktop_computer: and weekends in fr
 
 #### Around the web:
 
-[<img title="sagun.info.np" align="left" alt="sagun.info.np" width="24px" src="./assets/icons/social-icons/click.svg" />][website]
-[<img align="left" alt="sagunkhtr | Twitter" width="24px" src="./assets/icons/social-icons/twitter.svg" />][twitter]
-[<img align="left" alt="sagunkhtr | Instagram" width="24px" src="./assets/icons/social-icons/instagram.svg" />][instagram]
-[<img align="left" alt="sagunkhatri | LinkedIn" width="24px" src="./assets/icons/social-icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sagunkhatri | Dribbble" width="24px" src="./assets/icons/social-icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="sagunkhatri | Gitlab" width="24px" src="./assets/icons/social-icons/gitlab.svg" />][gitlab]
+[<img title="sagun.info.np" align="left" alt="sagun.info.np" width="4%" src="./assets/icons/social-icons/click.svg" />][website]
+[<img align="left" alt="sagunkhtr | Twitter" width="4%" src="./assets/icons/social-icons/twitter.svg" />][twitter]
+[<img align="left" alt="sagunkhtr | Instagram" width="4%" src="./assets/icons/social-icons/instagram.svg" />][instagram]
+[<img align="left" alt="sagunkhatri | LinkedIn" width="4%" src="./assets/icons/social-icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sagunkhatri | Dribbble" width="4%" src="./assets/icons/social-icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="sagunkhatri | Gitlab" width="4%" src="./assets/icons/social-icons/gitlab.svg" />][gitlab]
 
 <br />
 
